@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="infinity" format="1">
+  <advance width="720"/>
+  <unicode hex="221E"/>
+  <outline>
+    <component base="pixel" yOffset="160"/>
+    <component base="pixel" yOffset="240"/>
+    <component base="pixel" xOffset="80" yOffset="320"/>
+    <component base="pixel" xOffset="160" yOffset="320"/>
+    <component base="pixel" xOffset="240" yOffset="240"/>
+    <component base="pixel" xOffset="320" yOffset="160"/>
+    <component base="pixel" xOffset="80" yOffset="80"/>
+    <component base="pixel" xOffset="480" yOffset="320"/>
+    <component base="pixel" xOffset="560" yOffset="240"/>
+    <component base="pixel" xOffset="560" yOffset="160"/>
+    <component base="pixel" xOffset="480" yOffset="80"/>
+    <component base="pixel" xOffset="400" yOffset="80"/>
+    <component base="pixel" xOffset="160" yOffset="80"/>
+    <component base="pixel" xOffset="400" yOffset="320"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>4</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>6</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>7</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>8</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>9</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>10</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>11</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>12</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>13</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

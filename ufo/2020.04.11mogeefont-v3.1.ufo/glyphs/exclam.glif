@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclam" format="1">
+  <advance width="200"/>
+  <unicode hex="0021"/>
+  <outline>
+    <component base="pixel" yOffset="400"/>
+    <component base="pixel" yOffset="320"/>
+    <component base="pixel" yOffset="240"/>
+    <component base="pixel" yOffset="160"/>
+    <component base="pixel"/>
+    <component base="pixel" yOffset="480"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>4</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-04 08:05:23 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

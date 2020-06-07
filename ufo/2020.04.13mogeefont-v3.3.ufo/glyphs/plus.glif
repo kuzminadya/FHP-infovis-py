@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="480"/>
+  <unicode hex="002B"/>
+  <outline>
+    <component base="pixel" xOffset="160" yOffset="320"/>
+    <component base="pixel" xOffset="160" yOffset="240"/>
+    <component base="pixel" xOffset="160" yOffset="160"/>
+    <component base="pixel" xOffset="80" yOffset="160"/>
+    <component base="pixel" yOffset="160"/>
+    <component base="pixel" xOffset="240" yOffset="160"/>
+    <component base="pixel" xOffset="320" yOffset="160"/>
+    <component base="pixel" xOffset="160" yOffset="80"/>
+    <component base="pixel" xOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

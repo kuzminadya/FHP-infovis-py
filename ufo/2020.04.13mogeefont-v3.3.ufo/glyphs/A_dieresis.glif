@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="1">
+  <advance width="400"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <component base="A"/>
+    <component base="pixel" yOffset="640"/>
+    <component base="pixel" xOffset="240" yOffset="640"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

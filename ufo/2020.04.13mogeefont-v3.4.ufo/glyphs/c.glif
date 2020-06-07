@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="c" format="1">
+  <advance width="320"/>
+  <unicode hex="0063"/>
+  <outline>
+    <component base="pixel" yOffset="320"/>
+    <component base="pixel" yOffset="240"/>
+    <component base="pixel" yOffset="160"/>
+    <component base="pixel" yOffset="80"/>
+    <component base="pixel" xOffset="80" yOffset="320"/>
+    <component base="pixel" xOffset="160" yOffset="240"/>
+    <component base="pixel" xOffset="160" yOffset="80"/>
+    <component base="pixel" xOffset="160"/>
+    <component base="pixel" xOffset="80"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>3</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>4</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>6</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>7</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>8</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+      </array>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-12-03 16:07:17 +0000</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <integer>0</integer>
+        <integer>0</integer>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

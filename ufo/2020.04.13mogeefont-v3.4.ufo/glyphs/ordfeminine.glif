@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine" format="1">
+  <advance width="320"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <component base="pixel" yOffset="640"/>
+    <component base="pixel" xOffset="80" yOffset="640"/>
+    <component base="pixel" xOffset="160" yOffset="560"/>
+    <component base="pixel" xOffset="160" yOffset="480"/>
+    <component base="pixel" xOffset="160" yOffset="400"/>
+    <component base="pixel" yOffset="480"/>
+    <component base="pixel" xOffset="80" yOffset="400"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>

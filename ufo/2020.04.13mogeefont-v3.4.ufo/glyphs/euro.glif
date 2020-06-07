@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="euro" format="1">
+  <advance width="480"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <component base="pixel" xOffset="80" yOffset="400"/>
+    <component base="pixel" xOffset="80" yOffset="240"/>
+    <component base="pixel" xOffset="80" yOffset="160"/>
+    <component base="pixel" xOffset="80" yOffset="80"/>
+    <component base="pixel" xOffset="160"/>
+    <component base="pixel" xOffset="240"/>
+    <component base="pixel" xOffset="320"/>
+    <component base="pixel" xOffset="160" yOffset="480"/>
+    <component base="pixel" xOffset="240" yOffset="480"/>
+    <component base="pixel" xOffset="320" yOffset="480"/>
+    <component base="pixel" yOffset="320"/>
+    <component base="pixel" xOffset="80" yOffset="320"/>
+    <component base="pixel" xOffset="160" yOffset="320"/>
+    <component base="pixel" xOffset="240" yOffset="320"/>
+    <component base="pixel" yOffset="160"/>
+    <component base="pixel" xOffset="160" yOffset="160"/>
+    <component base="pixel" xOffset="240" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>10</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>11</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>12</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>13</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>14</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>15</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>16</integer>
+          <key>name</key>
+          <string>pixel</string>
+        </dict>
+      </array>
+      <key>public.markColor</key>
+      <string>0.99,0.62,0.11,1</string>
+    </dict>
+  </lib>
+</glyph>
